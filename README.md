@@ -1,20 +1,7 @@
 <<<<<<< HEAD
-# gramcare
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Gram Care Telemedicine Platform
+(Local content)
 =======
-# gramcare
->>>>>>> ec1f268899b9537fc1cccb931fdf2e8999b06a07
+# Gram-Care-Telemedicine-Platform
+(GitHub content)
+>>>>>>> origin/main
